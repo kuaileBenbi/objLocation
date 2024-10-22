@@ -215,3 +215,16 @@ print(f"目标纬度: {latitude}°，目标经度: {longitude}°")
 3. 目标定位：
 
    - 根据目标像素与光心的世界坐标两点确定的直线，找到其与地球椭球的交点，并将交点转换为地理坐标，即目标的纬度和经度。
+
+# 文件夹说明
+
+"tmp": 有坐标轴2d、3d可视化方法，参考论文原文。其他文件为草稿。
+"objectlocation.py": 没考虑快摆镜
+"objectlocation_withmirror": 加入了快摆镜选项
+"objectlocation.md": 梳理了论文的思路，根据程序扩充了部分解释。（论文内部有部分笔误已经进行了更正）
+
+---
+
+Acknowledgements:
+
+感谢原论文[基于光电吊舱和惯性导航的海面目标定位研究](https://d.wanfangdata.com.cn/thesis/D03401623)作者，今天是复制粘贴侠。

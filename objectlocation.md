@@ -423,7 +423,7 @@ $$
 Target latitude: 38.86334330966932°, longitude: 121.63842992580435°
 ```
 
-Acknowledge ：
+Acknowledgements ：
 
 [基于光电吊舱和惯性导航的海面目标定位研究](https://d.wanfangdata.com.cn/thesis/D03401623)
 
